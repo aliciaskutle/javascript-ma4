@@ -1,2 +1,10 @@
-Answer questions from level 2 here:
+Q1:
+Document Object Model, an interface for HTML and an object-oriented reprensentation of a page, that can be manipulated by other programs like JavaScript. 
 
+Q2:
+querySelector(), addEventListener(), getAttribute()
+
+Q3:
+The execution of the JavaScript code continues, not stopping the code waiting for the data to return like in synchronous calls, but executed when the calling is finished.
+
+Q4:
